@@ -29,7 +29,7 @@
 
 
 
-# Tech Stack
+# some things I know:
 
 ### OSes I've used
 
